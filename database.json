@@ -1,0 +1,1299 @@
+[
+    {
+        "id": 1,
+        "name": "Alain St. PIerre",
+        "location": "Firestone",
+        "department": "Collection Development",
+        "class": "Prof",
+        "connections": [
+            2,
+            17,
+            26,
+            46,
+            62,
+            71,
+            80,
+            81
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Andrew Johnson",
+        "location": "East Asian",
+        "department": "Collection Development",
+        "class": "HR",
+        "connections": [
+            1,
+            16,
+            33,
+            45,
+            46,
+            51,
+            59,
+            82
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Annalise Berdini",
+        "location": "Mudd",
+        "department": "RBSC",
+        "class": "Prof",
+        "connections": [
+            8,
+            29,
+            35,
+            37,
+            53,
+            64
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Anne Jarvis",
+        "location": "Firsestone",
+        "department": "Administration",
+        "class": "Prof",
+        "connections": [
+            34,
+            40
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Anya Bartelmann",
+        "location": "Lewis",
+        "department": "RIS",
+        "class": "Prof",
+        "connections": [
+            20,
+            35,
+            38,
+            67
+        ]
+    },
+    {
+        "id": 6,
+        "name": "April C. Armstrong",
+        "location": "Mudd",
+        "department": "RBSC",
+        "class": "PULA",
+        "connections": [
+            8,
+            15,
+            29,
+            39,
+            43,
+            60,
+            62
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Audrey Welber",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "Prof",
+        "connections": [
+            22,
+            32,
+            39,
+            52,
+            66
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Axa Liauw",
+        "location": "Firestone",
+        "department": "IT",
+        "class": "HR",
+        "connections": [
+            3,
+            6,
+            13,
+            34,
+            35,
+            43,
+            50,
+            57
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Beth Haas",
+        "location": "Firestone",
+        "department": "IT",
+        "class": "HR",
+        "connections": [
+            48,
+            59,
+            79,
+            81
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Bobbi Coffey",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "Prof",
+        "connections": [
+            14,
+            24,
+            38,
+            45,
+            47,
+            50,
+            69
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Brenna Campbell",
+        "location": "Firestone",
+        "department": "Collection Development",
+        "class": "Prof",
+        "connections": [
+            19,
+            22,
+            24,
+            31,
+            32,
+            34,
+            41,
+            50
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Brittany Jones",
+        "location": "Mendel",
+        "department": "Collection Development",
+        "class": "PULA",
+        "connections": [
+            27,
+            55,
+            62,
+            63,
+            67,
+            69
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Christa Cleeton",
+        "location": "Mudd",
+        "department": "RBSC",
+        "class": "PULA",
+        "connections": [
+            8,
+            21,
+            28,
+            36,
+            54,
+            57,
+            58,
+            62
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Christine Shungu",
+        "location": "Architecture",
+        "department": "Collection Development",
+        "class": "PULA",
+        "connections": [
+            16,
+            50,
+            56,
+            57,
+            61,
+            64,
+            72
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Cliff Wulfman",
+        "location": "Firestone",
+        "department": "IT",
+        "class": "Prof",
+        "connections": [
+            6,
+            29,
+            38,
+            60,
+            66,
+            70
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Daina Wilpon",
+        "location": "Firestone",
+        "department": "Organization Effectiveness",
+        "class": "HR",
+        "connections": [
+            2,
+            14,
+            18,
+            32,
+            54,
+            59,
+            72
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Dan Linke",
+        "location": "Mudd",
+        "department": "RBSC",
+        "class": "Prof",
+        "connections": [
+            1,
+            22,
+            37,
+            40,
+            51,
+            61,
+            73,
+            80
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Danielle Vuong",
+        "location": "Firestone",
+        "department": "Collection Development",
+        "class": "PULA",
+        "connections": [
+            16,
+            19,
+            23,
+            37,
+            54
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Darwin Scott",
+        "location": "Mendel",
+        "department": "Collection Development",
+        "class": "Prof",
+        "connections": [
+            11,
+            18,
+            23,
+            50
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Dave Jenkins",
+        "location": "Firestone",
+        "department": "Collection Development",
+        "class": "Prof",
+        "connections": [
+            5,
+            31,
+            35,
+            39,
+            46,
+            64,
+            68
+        ]
+    },
+    {
+        "id": 21,
+        "name": "David Magier",
+        "location": "Firestone",
+        "department": "Collection Development",
+        "class": "Prof",
+        "connections": [
+            13,
+            43,
+            52,
+            58,
+            63,
+            66,
+            86
+        ]
+    },
+    {
+        "id": 22,
+        "name": "David Platt",
+        "location": "Marquand",
+        "department": "Collection Development",
+        "class": "PULA",
+        "connections": [
+            7,
+            11,
+            17,
+            32,
+            60,
+            65,
+            73
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Deborah Cordonnier",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "HR",
+        "connections": [
+            18,
+            19,
+            42,
+            44,
+            53,
+            54,
+            55,
+            67
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Denise Hersey",
+        "location": "Lewis",
+        "department": "RIS",
+        "class": "Prof",
+        "connections": [
+            10,
+            11,
+            31,
+            41,
+            47,
+            67,
+            69
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Elana Broch",
+        "location": "Stokes",
+        "department": "RIS",
+        "class": "Prof",
+        "connections": [
+            8,
+            33,
+            47,
+            57,
+            60,
+            65,
+            72
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Faith Charlton ",
+        "location": "Firestone",
+        "department": "Cataloging",
+        "class": "Prof",
+        "connections": [
+            1,
+            41,
+            43,
+            49,
+            81
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Fran Johnson",
+        "location": "Recap",
+        "department": "Recap",
+        "class": "HR",
+        "connections": [
+            12,
+            34,
+            55
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Gabriella Karl-Johnson",
+        "location": "Architecture",
+        "department": "Collection Development",
+        "class": "Prof",
+        "connections": [
+            4,
+            13,
+            54,
+            65,
+            76
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Gabrielle Winkler",
+        "location": "Firestone",
+        "department": "Collection Development",
+        "class": "PULA",
+        "connections": [
+            3,
+            6,
+            15,
+            37,
+            38,
+            39
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Graham Stetler",
+        "location": "Marquand",
+        "department": "Collection Development",
+        "class": "PULA",
+        "connections": [
+            36,
+            42,
+            51,
+            57,
+            58,
+            71,
+            72
+        ]
+    },
+    {
+        "id": 31,
+        "name": "James Griffin",
+        "location": "Firestone",
+        "department": "IT",
+        "class": "HR",
+        "connections": [
+            11,
+            20,
+            24,
+            34,
+            67,
+            68
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Jeff Barton",
+        "location": "Firestone",
+        "department": "Rare Books",
+        "class": "Prof",
+        "connections": [
+            7,
+            11,
+            16,
+            22,
+            43,
+            59
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Jeff Rowlands",
+        "location": "Firestone",
+        "department": "Finance and Administration",
+        "class": "HR",
+        "connections": [
+            2,
+            25,
+            51,
+            53,
+            58,
+            72
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Jessica Hoppe Dagci",
+        "location": "Marquand",
+        "department": "Collection Development",
+        "class": "HR",
+        "connections": [
+            8,
+            11,
+            27,
+            31,
+            36,
+            50
+        ]
+    },
+    {
+        "id": 35,
+        "name": "John Martin",
+        "location": "New South",
+        "department": "HR",
+        "class": "HR",
+        "connections": [
+            3,
+            5,
+            8,
+            20,
+            49,
+            61
+        ]
+    },
+    {
+        "id": 36,
+        "name": "John Sikorski",
+        "location": "Firestone",
+        "department": "Finance and Administration",
+        "class": "HR",
+        "connections": [
+            13,
+            30,
+            34,
+            40,
+            56,
+            58,
+            62,
+            71
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Joshua Seufert",
+        "location": "East Asian",
+        "department": "Collection Development",
+        "class": "Prof",
+        "connections": [
+            3,
+            17,
+            18,
+            29,
+            51
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Kalliopi Balatsouka",
+        "location": "Firestone",
+        "department": "Cataloging",
+        "class": "Prof",
+        "connections": [
+            5,
+            10,
+            15,
+            29
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Keith Beagin",
+        "location": "Architecture",
+        "department": "Collection Development",
+        "class": "PULA",
+        "connections": [
+            6,
+            7,
+            20,
+            29,
+            42,
+            44,
+            66
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Lidia Santarelli",
+        "location": "693 Alexander",
+        "department": "Cataloging",
+        "class": "Prof",
+        "connections": [
+            4,
+            17,
+            36,
+            56,
+            61
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Linda Chamberlin ",
+        "location": "Stokes",
+        "department": "RIS",
+        "class": "HR",
+        "connections": [
+            11,
+            24,
+            26,
+            49
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Louise Deis",
+        "location": "Lewis",
+        "department": "RIS",
+        "class": "Prof",
+        "connections": [
+            23,
+            30,
+            39,
+            44,
+            54,
+            72
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Luiza Wainer",
+        "location": "693 Alexander",
+        "department": "Tech Services",
+        "class": "Prof",
+        "connections": [
+            6,
+            8,
+            21,
+            26,
+            32,
+            59
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Mark Zelesky",
+        "location": "Firestone",
+        "department": "IT",
+        "class": "HR",
+        "connections": [
+            23,
+            39,
+            42,
+            55
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Minjie Chen",
+        "location": "Firestone",
+        "department": "RBSC",
+        "class": "Prof",
+        "connections": [
+            2,
+            10,
+            52,
+            61,
+            68,
+            69,
+            81,
+            82
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Nick Budak",
+        "location": "Firestone",
+        "department": "CDH",
+        "class": "HR",
+        "connections": [
+            1,
+            2,
+            20,
+            25,
+            64,
+            77
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Nikitas Tampakis",
+        "location": "Firestone",
+        "department": "IT",
+        "class": "HR",
+        "connections": [
+            10,
+            24,
+            25,
+            60,
+            70,
+            75,
+            85
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Patty Gaspari-Bridges",
+        "location": "Firestone",
+        "department": "Collection Development",
+        "class": "Prof",
+        "connections": [
+            9,
+            56,
+            59
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Paul Needham",
+        "location": "Firestone",
+        "department": "RBSC",
+        "class": "Prof",
+        "connections": [
+            26,
+            35,
+            41,
+            61
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Pavel Teptyuk",
+        "location": "693 Alexander",
+        "department": "Cataloging",
+        "class": "Prof",
+        "connections": [
+            8,
+            10,
+            11,
+            14,
+            19,
+            34
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Peggy Matthews",
+        "location": "Firestone",
+        "department": "Tech Services",
+        "class": "PULA",
+        "connections": [
+            2,
+            17,
+            30,
+            33,
+            37,
+            57,
+            63,
+            68
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Peter Green",
+        "location": "693 Alexander",
+        "department": "Tech Services",
+        "class": "HR",
+        "connections": [
+            7,
+            45,
+            57,
+            68
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Rebecca Berkowitz",
+        "location": "Engineering",
+        "department": "Collection Development",
+        "class": "PULA",
+        "connections": [
+            3,
+            23,
+            33,
+            58,
+            64,
+            67,
+            70,
+            83
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Rebecca Koeser",
+        "location": "Firestone",
+        "department": "CDH",
+        "class": "HR",
+        "connections": [
+            13,
+            16,
+            18,
+            23,
+            28,
+            42
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Regine Heberlein",
+        "location": "Firestone",
+        "department": "Cataloging",
+        "class": "Prof",
+        "connections": [
+            12,
+            23,
+            27,
+            44
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Roel Munoz",
+        "location": "Firestone",
+        "department": "IT",
+        "class": "Prof",
+        "connections": [
+            14,
+            36,
+            40,
+            48,
+            57
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Sara Hagenbuch",
+        "location": "Mendel",
+        "department": "Collection Development",
+        "class": "HR",
+        "connections": [
+            8,
+            13,
+            14,
+            30,
+            51,
+            52,
+            56
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Sara Howard",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "Prof",
+        "connections": [
+            13,
+            21,
+            30,
+            33,
+            36,
+            53,
+            71,
+            74
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Sara Logue",
+        "location": "Mudd",
+        "department": "RBSC",
+        "class": "Prof",
+        "connections": [
+            2,
+            9,
+            16,
+            32,
+            43,
+            48
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Sarah Hamerman",
+        "location": "Firestone",
+        "department": "Cataloging",
+        "class": "Prof",
+        "connections": [
+            6,
+            15,
+            22,
+            25,
+            47,
+            65
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Saupan Cheng",
+        "location": "East Asian",
+        "department": "Tech Services",
+        "class": "PULA",
+        "connections": [
+            14,
+            17,
+            35,
+            40,
+            45,
+            49,
+            64,
+            81
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Shaun Ellis",
+        "location": "Firestone",
+        "department": "IT",
+        "class": "HR",
+        "connections": [
+            1,
+            6,
+            12,
+            13,
+            36,
+            69,
+            71
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Squirrel Walsh",
+        "location": "Firestone",
+        "department": "RBSC",
+        "class": "PULA",
+        "connections": [
+            12,
+            21,
+            51,
+            66,
+            67,
+            68
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Stephanie Ramirez",
+        "location": "Firestone",
+        "department": "Communications",
+        "class": "HR",
+        "connections": [
+            3,
+            14,
+            20,
+            46,
+            53,
+            61
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Steve Knowlton",
+        "location": "Firestone",
+        "department": "Collection Development",
+        "class": "Prof",
+        "connections": [
+            22,
+            25,
+            28,
+            60,
+            69,
+            78
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Sue Regan",
+        "location": "693 Alexander",
+        "department": "Finance and Administration",
+        "class": "HR",
+        "connections": [
+            7,
+            15,
+            21,
+            39,
+            63,
+            70
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Thomas Keenan",
+        "location": "Firestone",
+        "department": "Collection Development",
+        "class": "Prof",
+        "connections": [
+            5,
+            12,
+            23,
+            24,
+            31,
+            53,
+            63
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Valencia L. Johnson",
+        "location": "Mudd",
+        "department": "RBSC",
+        "class": "Prof",
+        "connections": [
+            20,
+            31,
+            45,
+            51,
+            52,
+            63
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Vicki Principi",
+        "location": "Firestone",
+        "department": "RBSC",
+        "class": "PULA",
+        "connections": [
+            10,
+            12,
+            24,
+            45,
+            62,
+            65,
+            78
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Wayne Bivens-Tatum",
+        "location": "Firestone",
+        "department": "Collection Development",
+        "class": "Prof",
+        "connections": [
+            15,
+            47,
+            53,
+            66,
+            83
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Wenqi Wang",
+        "location": "East Asian",
+        "department": "Cataloging",
+        "class": "Prof",
+        "connections": [
+            1,
+            30,
+            36,
+            58,
+            62,
+            72
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Yuan Li",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "Prof",
+        "connections": [
+            14,
+            16,
+            25,
+            30,
+            33,
+            42,
+            71
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Lauren Bell",
+        "location": "Firestone",
+        "department": "IT",
+        "class": "HR",
+        "connections": [
+            17,
+            22
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Rozi Taasob",
+        "location": "Firestone",
+        "department": "Cataloging",
+        "class": "Prof",
+        "connections": [
+            58
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Tracie Emanuel",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "HR",
+        "connections": [
+            47,
+            85
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Seth Porter",
+        "location": "Stokes",
+        "department": "RIS",
+        "class": "Prof",
+        "connections": [
+            36,
+            56
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Alexis Antracoli",
+        "location": "Mudd",
+        "department": "RBSC",
+        "class": "Prof",
+        "connections": [
+            25,
+            46
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Kimberly Leaman",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "PULA",
+        "connections": [
+            65,
+            69
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Bobray Bordelon",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "Prof",
+        "connections": [
+            9,
+            81
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Barbara McLaughlin",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "HR",
+        "connections": [
+            1,
+            17,
+            84
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Barbara Valenza",
+        "location": "Firestone",
+        "department": "Communications",
+        "class": "HR",
+        "connections": [
+            1,
+            9,
+            26,
+            45,
+            61,
+            79
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Jon Stroop",
+        "location": "Firestone",
+        "department": "IT",
+        "class": "HR",
+        "connections": [
+            2,
+            45
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Natasha Ermolaev",
+        "location": "Firestone",
+        "department": "CDH",
+        "class": "Prof",
+        "connections": [
+            53,
+            70
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Stephen Ferguson ",
+        "location": "Firestone",
+        "department": "RBSC",
+        "class": "Prof",
+        "connections": [
+            80
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Holly Hatheway",
+        "location": "Marquand",
+        "department": "Collection Development",
+        "class": "Prof",
+        "connections": [
+            47,
+            75
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Tracy Hartman",
+        "location": "Stokes",
+        "department": "RIS",
+        "class": "PULA",
+        "connections": []
+    },
+    {
+        "id": 87,
+        "name": "Meghan Testerman",
+        "location": "Lewis",
+        "department": "RIS",
+        "class": "Prof",
+        "connections": []
+    },
+    {
+        "id": 88,
+        "name": "Peggy Kehrer",
+        "location": "Firestone",
+        "department": "Finance and Administration",
+        "class": "HR",
+        "connections": []
+    },
+    {
+        "id": 89,
+        "name": "Jennifer Klumpp",
+        "location": "693 Alexander",
+        "department": "Finance and Adminstration",
+        "class": "HR",
+        "connections": []
+    },
+    {
+        "id": 90,
+        "name": "Tracy Hall",
+        "location": "Firestone",
+        "department": "Finance and Adminstration",
+        "class": "HR",
+        "connections": []
+    },
+    {
+        "id": 91,
+        "name": "Lauren Levinson",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "PULA",
+        "connections": []
+    },
+    {
+        "id": 92,
+        "name": "Emily Wild",
+        "location": "Lewis",
+        "department": "RIS",
+        "class": "Prof",
+        "connections": []
+    },
+    {
+        "id": 93,
+        "name": "Rebecca Munson",
+        "location": "Firestone",
+        "department": "CDH",
+        "class": "Prof",
+        "connections": []
+    }
+]
