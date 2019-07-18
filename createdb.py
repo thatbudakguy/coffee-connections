@@ -13,6 +13,7 @@ with open('round5.csv') as file:
                 'location': row[3],
                 'department': row[4],
                 'class': row[5],
+                'email': row[1],
                 'connections': []
             })
 

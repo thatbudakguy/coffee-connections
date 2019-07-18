@@ -1,3 +1,6 @@
 .vscode/
 venv/
 .mypy_cache
+round*
+database.json
+met.csv

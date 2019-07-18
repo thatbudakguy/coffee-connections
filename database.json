@@ -5,6 +5,7 @@
         "location": "Firestone",
         "department": "Collection Development",
         "class": "Prof",
+        "email": "apierre@princeton.edu",
         "connections": [
             2,
             17,
@@ -13,7 +14,9 @@
             62,
             71,
             80,
-            81
+            81,
+            35,
+            13
         ]
     },
     {
@@ -22,6 +25,7 @@
         "location": "East Asian",
         "department": "Collection Development",
         "class": "HR",
+        "email": "aj7@princeton.edu",
         "connections": [
             1,
             16,
@@ -30,7 +34,9 @@
             46,
             51,
             59,
-            82
+            82,
+            83,
+            6
         ]
     },
     {
@@ -39,13 +45,16 @@
         "location": "Mudd",
         "department": "RBSC",
         "class": "Prof",
+        "email": "aberdini@princeton.edu",
         "connections": [
             8,
             29,
             35,
             37,
             53,
-            64
+            64,
+            31,
+            85
         ]
     },
     {
@@ -54,16 +63,12 @@
         "location": "Firsestone",
         "department": "Administration",
         "class": "Prof",
+        "email": "ajarvis@princeton.edu",
         "connections": [
             34,
             40,
-            82,
-            84,
-            81,
-            16,
-            48,
-            21,
-            33
+            73,
+            39
         ]
     },
     {
@@ -72,11 +77,14 @@
         "location": "Lewis",
         "department": "RIS",
         "class": "Prof",
+        "email": "abartelm@exchange.Princeton.EDU",
         "connections": [
             20,
             35,
             38,
-            67
+            67,
+            29,
+            52
         ]
     },
     {
@@ -85,6 +93,7 @@
         "location": "Mudd",
         "department": "RBSC",
         "class": "PULA",
+        "email": "acarmstr@princeton.edu",
         "connections": [
             8,
             15,
@@ -92,7 +101,9 @@
             39,
             43,
             60,
-            62
+            62,
+            83,
+            2
         ]
     },
     {
@@ -101,12 +112,15 @@
         "location": "Firestone",
         "department": "RIS",
         "class": "Prof",
+        "email": "abw@princeton.edu",
         "connections": [
             22,
             32,
             39,
             52,
-            66
+            66,
+            30,
+            77
         ]
     },
     {
@@ -115,6 +129,7 @@
         "location": "Firestone",
         "department": "IT",
         "class": "HR",
+        "email": "aliauw@princeton.edu",
         "connections": [
             3,
             6,
@@ -123,7 +138,9 @@
             35,
             43,
             50,
-            57
+            57,
+            22,
+            71
         ]
     },
     {
@@ -132,11 +149,14 @@
         "location": "Firestone",
         "department": "IT",
         "class": "HR",
+        "email": "bwodnick@princeton.edu",
         "connections": [
             48,
             59,
             79,
-            81
+            81,
+            58,
+            63
         ]
     },
     {
@@ -145,6 +165,7 @@
         "location": "Firestone",
         "department": "RIS",
         "class": "Prof",
+        "email": "bcoffey@princeton.edu",
         "connections": [
             14,
             24,
@@ -152,7 +173,9 @@
             45,
             47,
             50,
-            69
+            69,
+            88,
+            74
         ]
     },
     {
@@ -161,6 +184,7 @@
         "location": "Firestone",
         "department": "Collection Development",
         "class": "Prof",
+        "email": "brennac@princeton.edu",
         "connections": [
             19,
             22,
@@ -169,7 +193,9 @@
             32,
             34,
             41,
-            50
+            50,
+            25,
+            54
         ]
     },
     {
@@ -178,13 +204,16 @@
         "location": "Mendel",
         "department": "Collection Development",
         "class": "PULA",
+        "email": "bnielson@princeton.edu",
         "connections": [
             27,
             55,
             62,
             63,
             67,
-            69
+            69,
+            79,
+            89
         ]
     },
     {
@@ -193,6 +222,7 @@
         "location": "Mudd",
         "department": "RBSC",
         "class": "PULA",
+        "email": "ccleeton@princeton.edu",
         "connections": [
             8,
             21,
@@ -201,7 +231,9 @@
             54,
             57,
             58,
-            62
+            62,
+            1,
+            35
         ]
     },
     {
@@ -210,6 +242,7 @@
         "location": "Architecture",
         "department": "Collection Development",
         "class": "PULA",
+        "email": "shungu@princeton.edu",
         "connections": [
             16,
             50,
@@ -217,7 +250,9 @@
             57,
             61,
             64,
-            72
+            72,
+            32,
+            66
         ]
     },
     {
@@ -226,13 +261,16 @@
         "location": "Firestone",
         "department": "IT",
         "class": "Prof",
+        "email": "cwulfman@princeton.edu",
         "connections": [
             6,
             29,
             38,
             60,
             66,
-            70
+            70,
+            26,
+            23
         ]
     },
     {
@@ -241,21 +279,17 @@
         "location": "Firestone",
         "department": "Organization Effectiveness",
         "class": "HR",
+        "email": "dainawilpon@princeton.edu",
         "connections": [
             2,
-            4,
             14,
             18,
             32,
             54,
             59,
             72,
-            82,
-            84,
-            81,
-            48,
-            21,
-            33
+            67,
+            56
         ]
     },
     {
@@ -264,6 +298,7 @@
         "location": "Mudd",
         "department": "RBSC",
         "class": "Prof",
+        "email": "dlinke@princeton.edu",
         "connections": [
             1,
             22,
@@ -272,7 +307,9 @@
             51,
             61,
             73,
-            80
+            80,
+            21,
+            24
         ]
     },
     {
@@ -281,12 +318,15 @@
         "location": "Firestone",
         "department": "Collection Development",
         "class": "PULA",
+        "email": "dvuong@princeton.edu",
         "connections": [
             16,
             19,
             23,
             37,
-            54
+            54,
+            41,
+            40
         ]
     },
     {
@@ -295,11 +335,14 @@
         "location": "Mendel",
         "department": "Collection Development",
         "class": "Prof",
+        "email": "dfscott@princeton.edu",
         "connections": [
             11,
             18,
             23,
-            50
+            50,
+            51,
+            42
         ]
     },
     {
@@ -308,6 +351,7 @@
         "location": "Firestone",
         "department": "Collection Development",
         "class": "Prof",
+        "email": "dj3@princeton.edu",
         "connections": [
             5,
             31,
@@ -315,7 +359,9 @@
             39,
             46,
             64,
-            68
+            68,
+            76,
+            43
         ]
     },
     {
@@ -324,8 +370,8 @@
         "location": "Firestone",
         "department": "Collection Development",
         "class": "Prof",
+        "email": "dmagier@princeton.edu",
         "connections": [
-            4,
             13,
             43,
             52,
@@ -333,12 +379,8 @@
             63,
             66,
             86,
-            82,
-            84,
-            81,
-            16,
-            48,
-            33
+            24,
+            17
         ]
     },
     {
@@ -347,6 +389,7 @@
         "location": "Marquand",
         "department": "Collection Development",
         "class": "PULA",
+        "email": "daplatt@princeton.edu",
         "connections": [
             7,
             11,
@@ -354,7 +397,9 @@
             32,
             60,
             65,
-            73
+            73,
+            8,
+            71
         ]
     },
     {
@@ -363,6 +408,7 @@
         "location": "Firestone",
         "department": "RIS",
         "class": "HR",
+        "email": "deborah@princeton.edu",
         "connections": [
             18,
             19,
@@ -371,7 +417,9 @@
             53,
             54,
             55,
-            67
+            67,
+            26,
+            15
         ]
     },
     {
@@ -380,6 +428,7 @@
         "location": "Lewis",
         "department": "RIS",
         "class": "Prof",
+        "email": "dhersey@princeton.edu",
         "connections": [
             10,
             11,
@@ -387,7 +436,9 @@
             41,
             47,
             67,
-            69
+            69,
+            21,
+            17
         ]
     },
     {
@@ -396,6 +447,7 @@
         "location": "Stokes",
         "department": "RIS",
         "class": "Prof",
+        "email": "ebroch@Princeton.edu",
         "connections": [
             8,
             33,
@@ -403,7 +455,9 @@
             57,
             60,
             65,
-            72
+            72,
+            11,
+            54
         ]
     },
     {
@@ -412,12 +466,15 @@
         "location": "Firestone",
         "department": "Cataloging",
         "class": "Prof",
+        "email": "faithc@princeton.edu",
         "connections": [
             1,
             41,
             43,
             49,
-            81
+            81,
+            23,
+            15
         ]
     },
     {
@@ -426,10 +483,13 @@
         "location": "Recap",
         "department": "Recap",
         "class": "HR",
+        "email": "francesj@princeton.edu",
         "connections": [
             12,
             34,
-            55
+            55,
+            65,
+            61
         ]
     },
     {
@@ -438,12 +498,15 @@
         "location": "Architecture",
         "department": "Collection Development",
         "class": "Prof",
+        "email": "gjk@princeton.edu",
         "connections": [
             4,
             13,
             54,
             65,
-            76
+            76,
+            47,
+            92
         ]
     },
     {
@@ -452,13 +515,16 @@
         "location": "Firestone",
         "department": "Collection Development",
         "class": "PULA",
+        "email": "gwinkler@princeton.edu",
         "connections": [
             3,
             6,
             15,
             37,
             38,
-            39
+            39,
+            5,
+            52
         ]
     },
     {
@@ -467,6 +533,7 @@
         "location": "Marquand",
         "department": "Collection Development",
         "class": "PULA",
+        "email": "gstetler@princeton.edu",
         "connections": [
             36,
             42,
@@ -474,7 +541,9 @@
             57,
             58,
             71,
-            72
+            72,
+            7,
+            77
         ]
     },
     {
@@ -483,13 +552,16 @@
         "location": "Firestone",
         "department": "IT",
         "class": "HR",
+        "email": "jrg5@princeton.edu",
         "connections": [
             11,
             20,
             24,
             34,
             67,
-            68
+            68,
+            85,
+            3
         ]
     },
     {
@@ -498,13 +570,16 @@
         "location": "Firestone",
         "department": "Rare Books",
         "class": "Prof",
+        "email": "jpbarton@princeton.edu",
         "connections": [
             7,
             11,
             16,
             22,
             43,
-            59
+            59,
+            66,
+            14
         ]
     },
     {
@@ -513,20 +588,16 @@
         "location": "Firestone",
         "department": "Finance and Administration",
         "class": "HR",
+        "email": "rowlands@princeton.edu",
         "connections": [
             2,
-            4,
             25,
             51,
             53,
             58,
             72,
-            82,
-            84,
-            81,
-            16,
-            48,
-            21
+            93,
+            44
         ]
     },
     {
@@ -535,13 +606,16 @@
         "location": "Marquand",
         "department": "Collection Development",
         "class": "HR",
+        "email": "jhoppe@princeton.edu",
         "connections": [
             8,
             11,
             27,
             31,
             36,
-            50
+            50,
+            72,
+            68
         ]
     },
     {
@@ -550,13 +624,16 @@
         "location": "New South",
         "department": "HR",
         "class": "HR",
+        "email": "jm2@princeton.edu",
         "connections": [
             3,
             5,
             8,
             20,
             49,
-            61
+            61,
+            1,
+            13
         ]
     },
     {
@@ -565,6 +642,7 @@
         "location": "Firestone",
         "department": "Finance and Administration",
         "class": "HR",
+        "email": "Walter@princeton.edu",
         "connections": [
             13,
             30,
@@ -573,7 +651,9 @@
             56,
             58,
             62,
-            71
+            71,
+            38,
+            81
         ]
     },
     {
@@ -582,12 +662,15 @@
         "location": "East Asian",
         "department": "Collection Development",
         "class": "Prof",
+        "email": "jseufert@princeton.edu",
         "connections": [
             3,
             17,
             18,
             29,
-            51
+            51,
+            64,
+            86
         ]
     },
     {
@@ -596,11 +679,14 @@
         "location": "Firestone",
         "department": "Cataloging",
         "class": "Prof",
+        "email": "kbalatso@princeton.edu",
         "connections": [
             5,
             10,
             15,
-            29
+            29,
+            36,
+            81
         ]
     },
     {
@@ -609,6 +695,7 @@
         "location": "Architecture",
         "department": "Collection Development",
         "class": "PULA",
+        "email": "kbeagin@princeton.edu",
         "connections": [
             6,
             7,
@@ -616,7 +703,9 @@
             29,
             42,
             44,
-            66
+            66,
+            73,
+            4
         ]
     },
     {
@@ -625,12 +714,15 @@
         "location": "693 Alexander",
         "department": "Cataloging",
         "class": "Prof",
+        "email": "lsantare@princeton.edu",
         "connections": [
             4,
             17,
             36,
             56,
-            61
+            61,
+            18,
+            41
         ]
     },
     {
@@ -639,11 +731,14 @@
         "location": "Stokes",
         "department": "RIS",
         "class": "HR",
+        "email": "chamberl@princeton.edu ",
         "connections": [
             11,
             24,
             26,
-            49
+            49,
+            18,
+            40
         ]
     },
     {
@@ -652,13 +747,16 @@
         "location": "Lewis",
         "department": "RIS",
         "class": "Prof",
+        "email": "lfdeis@princeton.edu",
         "connections": [
             23,
             30,
             39,
             44,
             54,
-            72
+            72,
+            51,
+            19
         ]
     },
     {
@@ -667,13 +765,16 @@
         "location": "693 Alexander",
         "department": "Tech Services",
         "class": "Prof",
+        "email": "lwainer@princeton.edu",
         "connections": [
             6,
             8,
             21,
             26,
             32,
-            59
+            59,
+            20,
+            76
         ]
     },
     {
@@ -682,11 +783,14 @@
         "location": "Firestone",
         "department": "IT",
         "class": "HR",
+        "email": "mzelesky@princeton.edu",
         "connections": [
             23,
             39,
             42,
-            55
+            55,
+            33,
+            93
         ]
     },
     {
@@ -695,6 +799,7 @@
         "location": "Firestone",
         "department": "RBSC",
         "class": "Prof",
+        "email": "minjiec@princeton.edu",
         "connections": [
             2,
             10,
@@ -703,7 +808,9 @@
             68,
             69,
             81,
-            82
+            82,
+            46,
+            78
         ]
     },
     {
@@ -712,13 +819,16 @@
         "location": "Firestone",
         "department": "CDH",
         "class": "HR",
+        "email": "nbudak@princeton.edu",
         "connections": [
             1,
             2,
             20,
             25,
             64,
-            77
+            77,
+            45,
+            78
         ]
     },
     {
@@ -727,6 +837,7 @@
         "location": "Firestone",
         "department": "IT",
         "class": "HR",
+        "email": "tampakis@princeton.edu",
         "connections": [
             10,
             24,
@@ -734,7 +845,9 @@
             60,
             70,
             75,
-            85
+            85,
+            28,
+            92
         ]
     },
     {
@@ -743,17 +856,13 @@
         "location": "Firestone",
         "department": "Collection Development",
         "class": "Prof",
+        "email": "pattygb@princeton.edu",
         "connections": [
-            4,
             9,
             56,
             59,
-            82,
-            84,
-            81,
-            16,
-            21,
-            33
+            60,
+            75
         ]
     },
     {
@@ -762,11 +871,14 @@
         "location": "Firestone",
         "department": "RBSC",
         "class": "Prof",
+        "email": "needham@princeton.edu",
         "connections": [
             26,
             35,
             41,
-            61
+            61,
+            70,
+            62
         ]
     },
     {
@@ -775,13 +887,16 @@
         "location": "693 Alexander",
         "department": "Cataloging",
         "class": "Prof",
+        "email": "pteptyuk@princeton.edu",
         "connections": [
             8,
             10,
             11,
             14,
             19,
-            34
+            34,
+            80,
+            69
         ]
     },
     {
@@ -790,6 +905,7 @@
         "location": "Firestone",
         "department": "Tech Services",
         "class": "PULA",
+        "email": "mmatthew@princeton.edu",
         "connections": [
             2,
             17,
@@ -798,7 +914,9 @@
             37,
             57,
             63,
-            68
+            68,
+            19,
+            42
         ]
     },
     {
@@ -807,11 +925,14 @@
         "location": "693 Alexander",
         "department": "Tech Services",
         "class": "HR",
+        "email": "pmgreen@princeton.edu",
         "connections": [
             7,
             45,
             57,
-            68
+            68,
+            29,
+            5
         ]
     },
     {
@@ -820,6 +941,7 @@
         "location": "Engineering",
         "department": "Collection Development",
         "class": "PULA",
+        "email": "rb17@princeton.edu",
         "connections": [
             3,
             23,
@@ -828,7 +950,9 @@
             64,
             67,
             70,
-            83
+            83,
+            82,
+            87
         ]
     },
     {
@@ -837,13 +961,16 @@
         "location": "Firestone",
         "department": "CDH",
         "class": "HR",
+        "email": "rebecca.s.koeser@princeton.edu",
         "connections": [
             13,
             16,
             18,
             23,
             28,
-            42
+            42,
+            11,
+            25
         ]
     },
     {
@@ -852,11 +979,14 @@
         "location": "Firestone",
         "department": "Cataloging",
         "class": "Prof",
+        "email": "heberlei@princeton.edu",
         "connections": [
             12,
             23,
             27,
-            44
+            44,
+            90,
+            84
         ]
     },
     {
@@ -865,12 +995,15 @@
         "location": "Firestone",
         "department": "IT",
         "class": "Prof",
+        "email": "rmunoz@princeton.edu",
         "connections": [
             14,
             36,
             40,
             48,
-            57
+            57,
+            67,
+            16
         ]
     },
     {
@@ -879,6 +1012,7 @@
         "location": "Mendel",
         "department": "Collection Development",
         "class": "HR",
+        "email": "sarach@princeton.edu",
         "connections": [
             8,
             13,
@@ -886,7 +1020,9 @@
             30,
             51,
             52,
-            56
+            56,
+            91,
+            59
         ]
     },
     {
@@ -895,6 +1031,7 @@
         "location": "Firestone",
         "department": "RIS",
         "class": "Prof",
+        "email": "sahoward@princeton.edu",
         "connections": [
             13,
             21,
@@ -903,7 +1040,9 @@
             36,
             53,
             71,
-            74
+            74,
+            9,
+            63
         ]
     },
     {
@@ -912,13 +1051,16 @@
         "location": "Mudd",
         "department": "RBSC",
         "class": "Prof",
+        "email": "slogue@princeton.edu",
         "connections": [
             2,
             9,
             16,
             32,
             43,
-            48
+            48,
+            91,
+            57
         ]
     },
     {
@@ -927,13 +1069,16 @@
         "location": "Firestone",
         "department": "Cataloging",
         "class": "Prof",
+        "email": "hamerman@princeton.edu",
         "connections": [
             6,
             15,
             22,
             25,
             47,
-            65
+            65,
+            75,
+            48
         ]
     },
     {
@@ -942,6 +1087,7 @@
         "location": "East Asian",
         "department": "Tech Services",
         "class": "PULA",
+        "email": "saupanc@princeton.edu",
         "connections": [
             14,
             17,
@@ -950,7 +1096,9 @@
             45,
             49,
             64,
-            81
+            81,
+            65,
+            27
         ]
     },
     {
@@ -959,6 +1107,7 @@
         "location": "Firestone",
         "department": "IT",
         "class": "HR",
+        "email": "shaune@princeton.edu",
         "connections": [
             1,
             6,
@@ -966,7 +1115,9 @@
             13,
             36,
             69,
-            71
+            71,
+            70,
+            49
         ]
     },
     {
@@ -975,13 +1126,16 @@
         "location": "Firestone",
         "department": "RBSC",
         "class": "PULA",
+        "email": "sw21@princeton.edu",
         "connections": [
             12,
             21,
             51,
             66,
             67,
-            68
+            68,
+            58,
+            9
         ]
     },
     {
@@ -990,13 +1144,16 @@
         "location": "Firestone",
         "department": "Communications",
         "class": "HR",
+        "email": "sjr5@princeton.edu",
         "connections": [
             3,
             14,
             20,
             46,
             53,
-            61
+            61,
+            86,
+            37
         ]
     },
     {
@@ -1005,13 +1162,16 @@
         "location": "Firestone",
         "department": "Collection Development",
         "class": "Prof",
+        "email": "steven.knowlton@princeton.edu",
         "connections": [
             22,
             25,
             28,
             60,
             69,
-            78
+            78,
+            27,
+            61
         ]
     },
     {
@@ -1020,13 +1180,16 @@
         "location": "693 Alexander",
         "department": "Finance and Administration",
         "class": "HR",
+        "email": "sregan@princeton.edu",
         "connections": [
             7,
             15,
             21,
             39,
             63,
-            70
+            70,
+            32,
+            14
         ]
     },
     {
@@ -1035,6 +1198,7 @@
         "location": "Firestone",
         "department": "Collection Development",
         "class": "Prof",
+        "email": "tkeenan@princeton.edu",
         "connections": [
             5,
             12,
@@ -1042,7 +1206,9 @@
             24,
             31,
             53,
-            63
+            63,
+            16,
+            56
         ]
     },
     {
@@ -1051,13 +1217,16 @@
         "location": "Mudd",
         "department": "RBSC",
         "class": "Prof",
+        "email": "vj2@princeton.edu",
         "connections": [
             20,
             31,
             45,
             51,
             52,
-            63
+            63,
+            72,
+            34
         ]
     },
     {
@@ -1066,6 +1235,7 @@
         "location": "Firestone",
         "department": "RBSC",
         "class": "PULA",
+        "email": "principi@princeton.edu",
         "connections": [
             10,
             12,
@@ -1073,7 +1243,9 @@
             45,
             62,
             65,
-            78
+            78,
+            80,
+            50
         ]
     },
     {
@@ -1082,12 +1254,15 @@
         "location": "Firestone",
         "department": "Collection Development",
         "class": "Prof",
+        "email": "rbivens@princeton.edu",
         "connections": [
             15,
             47,
             53,
             66,
-            83
+            83,
+            62,
+            49
         ]
     },
     {
@@ -1096,13 +1271,16 @@
         "location": "East Asian",
         "department": "Cataloging",
         "class": "Prof",
+        "email": "wenqiw@princeton.edu",
         "connections": [
             1,
             30,
             36,
             58,
             62,
-            72
+            72,
+            8,
+            22
         ]
     },
     {
@@ -1111,6 +1289,7 @@
         "location": "Firestone",
         "department": "RIS",
         "class": "Prof",
+        "email": "yl7@princeton.edu",
         "connections": [
             14,
             16,
@@ -1118,7 +1297,9 @@
             30,
             33,
             42,
-            71
+            71,
+            34,
+            68
         ]
     },
     {
@@ -1127,9 +1308,12 @@
         "location": "Firestone",
         "department": "IT",
         "class": "HR",
+        "email": "lobell@princeton.edu",
         "connections": [
             17,
-            22
+            22,
+            4,
+            39
         ]
     },
     {
@@ -1138,8 +1322,11 @@
         "location": "Firestone",
         "department": "Cataloging",
         "class": "Prof",
+        "email": "rtaasob@princeton.edu",
         "connections": [
-            58
+            58,
+            88,
+            10
         ]
     },
     {
@@ -1148,9 +1335,12 @@
         "location": "Firestone",
         "department": "RIS",
         "class": "HR",
+        "email": "temanuel@princeton.edu",
         "connections": [
             47,
-            85
+            85,
+            60,
+            48
         ]
     },
     {
@@ -1159,9 +1349,12 @@
         "location": "Stokes",
         "department": "RIS",
         "class": "Prof",
+        "email": "smporter@princeton.edu",
         "connections": [
             36,
-            56
+            56,
+            20,
+            43
         ]
     },
     {
@@ -1170,9 +1363,12 @@
         "location": "Mudd",
         "department": "RBSC",
         "class": "Prof",
+        "email": "alexis.antracoli@princeton.edu",
         "connections": [
             25,
-            46
+            46,
+            7,
+            30
         ]
     },
     {
@@ -1181,9 +1377,12 @@
         "location": "Firestone",
         "department": "RIS",
         "class": "PULA",
+        "email": "kleaman@princeton.edu",
         "connections": [
             65,
-            69
+            69,
+            46,
+            45
         ]
     },
     {
@@ -1192,9 +1391,12 @@
         "location": "Firestone",
         "department": "RIS",
         "class": "Prof",
+        "email": "bordelon@Princeton.edu",
         "connections": [
             9,
-            81
+            81,
+            12,
+            89
         ]
     },
     {
@@ -1203,10 +1405,13 @@
         "location": "Firestone",
         "department": "RIS",
         "class": "HR",
+        "email": "mclaugh@princeton.edu",
         "connections": [
             1,
             17,
-            84
+            84,
+            50,
+            69
         ]
     },
     {
@@ -1215,20 +1420,16 @@
         "location": "Firestone",
         "department": "Communications",
         "class": "HR",
+        "email": "bvalenza@princeton.edu",
         "connections": [
             1,
-            4,
             9,
             26,
             45,
             61,
             79,
-            82,
-            84,
-            16,
-            48,
-            21,
-            33
+            36,
+            38
         ]
     },
     {
@@ -1237,16 +1438,12 @@
         "location": "Firestone",
         "department": "IT",
         "class": "HR",
+        "email": "jstroop@princeton.edu",
         "connections": [
             2,
-            4,
             45,
-            84,
-            81,
-            16,
-            48,
-            21,
-            33
+            87,
+            53
         ]
     },
     {
@@ -1255,9 +1452,12 @@
         "location": "Firestone",
         "department": "CDH",
         "class": "Prof",
+        "email": "nataliae@princeton.edu",
         "connections": [
             53,
-            70
+            70,
+            2,
+            6
         ]
     },
     {
@@ -1266,15 +1466,11 @@
         "location": "Firestone",
         "department": "RBSC",
         "class": "Prof",
+        "email": "ferguson@Princeton.EDU",
         "connections": [
-            4,
             80,
-            82,
-            81,
-            16,
-            48,
-            21,
-            33
+            55,
+            90
         ]
     },
     {
@@ -1283,9 +1479,12 @@
         "location": "Marquand",
         "department": "Collection Development",
         "class": "Prof",
+        "email": "hhatheway@princeton.edu",
         "connections": [
             47,
-            75
+            75,
+            31,
+            3
         ]
     },
     {
@@ -1294,7 +1493,11 @@
         "location": "Stokes",
         "department": "RIS",
         "class": "PULA",
-        "connections": []
+        "email": "hartman@princeton.edu",
+        "connections": [
+            64,
+            37
+        ]
     },
     {
         "id": 87,
@@ -1302,7 +1505,11 @@
         "location": "Lewis",
         "department": "RIS",
         "class": "Prof",
-        "connections": []
+        "email": "mtesterman@princeton.edu",
+        "connections": [
+            82,
+            53
+        ]
     },
     {
         "id": 88,
@@ -1310,7 +1517,11 @@
         "location": "Firestone",
         "department": "Finance and Administration",
         "class": "HR",
-        "connections": []
+        "email": "mkehrer@princeton.edu",
+        "connections": [
+            74,
+            10
+        ]
     },
     {
         "id": 89,
@@ -1318,7 +1529,11 @@
         "location": "693 Alexander",
         "department": "Finance and Adminstration",
         "class": "HR",
-        "connections": []
+        "email": "jklumpp@princeton.edu",
+        "connections": [
+            79,
+            12
+        ]
     },
     {
         "id": 90,
@@ -1326,7 +1541,11 @@
         "location": "Firestone",
         "department": "Finance and Adminstration",
         "class": "HR",
-        "connections": []
+        "email": "tmincher@princeton.edu",
+        "connections": [
+            55,
+            84
+        ]
     },
     {
         "id": 91,
@@ -1334,7 +1553,11 @@
         "location": "Firestone",
         "department": "RIS",
         "class": "PULA",
-        "connections": []
+        "email": "lwalter@princeton.edu",
+        "connections": [
+            57,
+            59
+        ]
     },
     {
         "id": 92,
@@ -1342,7 +1565,11 @@
         "location": "Lewis",
         "department": "RIS",
         "class": "Prof",
-        "connections": []
+        "email": "ewild@princeton.edu",
+        "connections": [
+            47,
+            28
+        ]
     },
     {
         "id": 93,
@@ -1350,6 +1577,73 @@
         "location": "Firestone",
         "department": "CDH",
         "class": "Prof",
+        "email": "rmunson@princeton.edu",
+        "connections": [
+            33,
+            44
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Carol Houghton",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "HR",
+        "email": "caroldh@princeton.edu",
+        "connections": []
+    },
+    {
+        "id": 95,
+        "name": "Elaine Russian",
+        "location": "Firestone",
+        "department": "Finance and Administration",
+        "class": "HR",
+        "email": "erussian@princeton.edu",
+        "connections": []
+    },
+    {
+        "id": 96,
+        "name": "Stephanie Ayers",
+        "location": "Firestone",
+        "department": "IT",
+        "class": "HR",
+        "email": "stephanie.ayers@princeton.edu",
+        "connections": []
+    },
+    {
+        "id": 97,
+        "name": "Anu Vedantham",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "Prof",
+        "email": "anuv@princeton.edu",
+        "connections": []
+    },
+    {
+        "id": 98,
+        "name": "Shuwen Cao",
+        "location": "Frist",
+        "department": "Cataloging",
+        "class": "Prof",
+        "email": "scao@princeton.edu",
+        "connections": []
+    },
+    {
+        "id": 99,
+        "name": "Kelee Pacion",
+        "location": "Lewis",
+        "department": "RIS",
+        "class": "Prof",
+        "email": "kpacion@princeton.edu",
+        "connections": []
+    },
+    {
+        "id": 100,
+        "name": "Jen Hunter",
+        "location": "Firestone",
+        "department": "RIS",
+        "class": "Prof",
+        "email": "jenhunter@princeton.edu",
         "connections": []
     }
 ]

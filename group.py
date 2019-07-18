@@ -47,6 +47,13 @@ def named_groups(groups, db):
         named_groups.append(names)
     return named_groups
 
+def email_groups(groups, db):
+    email_groups = []
+    for group in groups:
+        emails = tuple([person['email'] for person in db if person['id'] in group])
+        email_groups.append(emails)
+    return email_groups
+
 def compute_pair_score(id1, id2, db):
     person1 = [person for person in db if person['id'] == id1][0]
     person2 = [person for person in db if person['id'] == id2][0]
@@ -95,11 +102,12 @@ def set_group(ids, db):
     return [person['id'] for person in group]
 
 # load database
-with open('database.json') as file:
+with open('round6.json') as file:
     db = json.loads(file.read())
 
 groups = make_groups(db)
 named_groups = named_groups(groups, db)
+email_groups = email_groups(groups, db)
 
 output = []
 pp = pprint.PrettyPrinter()
@@ -108,7 +116,8 @@ for i, group in enumerate(groups):
     output.append({
         'group': group,
         'names': named_groups[i],
+        'emails': email_groups[i],
         'score': compute_group_score(group, db)
     })
 
-pp.pprint(output)
+print(json.dumps(output, indent=4))
