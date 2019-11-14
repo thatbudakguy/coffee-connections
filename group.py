@@ -102,7 +102,7 @@ def set_group(ids, db):
     return [person['id'] for person in group]
 
 # load database
-with open('round6.json') as file:
+with open('round7.json') as file:
     db = json.loads(file.read())
 
 groups = make_groups(db)

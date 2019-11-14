@@ -9,7 +9,7 @@ db_id = len(db)+1
 db_names = [person['name'] for person in db]
 next_round_ids = []
 
-# update the database with the round 5 groupings
+# update the database with the last round groupings
 def update_db(db, filename):
     with open(filename) as file:
         groups = json.loads(file.read())
@@ -19,8 +19,8 @@ def update_db(db, filename):
                 db[id-1]['connections'].remove(id)
     return db
 
-
-with open('round6.csv') as file:
+# get subset of database for current signups
+with open('round7.csv') as file:
     reader = csv.reader(file, delimiter=',')
     for i, row in enumerate(reader):
         if i > 0:

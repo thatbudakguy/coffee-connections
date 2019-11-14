@@ -2,5 +2,7 @@
 venv/
 .mypy_cache
 round*
+group*.csv
+group*.json
 database.json
 met.csv
